@@ -14,7 +14,7 @@ O relatório foi estruturado para atender a uma demanda de negócio simulada, fo
 
 ### Página 1: Panorama Geral (Executivo)
 *Foco em volume total, localização geográfica e tendências temporais.*
-![Imagem da Página 1](caminho_da_sua_imagem_pagina1.png)
+![Imagem da Página 1](PowerBi_Acidentes_Transito_1.png)
 
 
 ### Página 2: Diagnóstico e Causas (Tático)
