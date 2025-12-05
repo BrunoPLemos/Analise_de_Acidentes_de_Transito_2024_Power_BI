@@ -19,7 +19,7 @@ O relatório foi estruturado para atender a uma demanda de negócio simulada, fo
 
 ### Página 2: Diagnóstico e Causas (Tático)
 *Análise detalhada de causas raízes, correlação clima x horário e matriz de risco.*
-![Imagem da Página 2](caminho_da_sua_imagem_pagina2.png)
+![Imagem da Página 2](PowerBi_Acidentes_Transito_2.png)
 
 
 ---
